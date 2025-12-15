@@ -1,7 +1,9 @@
 Madrid Airbnb Data Science Project
 
 dataset: https://www.kaggle.com/datasets/rusiano/madrid-airbnb-data/data
-Implemented ith Python
+
+Implemented with Python
+
 The project included:
 - Data extraction and preprocessing
 - Dataset description and analysis
